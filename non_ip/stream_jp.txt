@@ -39,5 +39,6 @@ DOMAIN-SUFFIX,avdanyuwiki.com
 DOMAIN-SUFFIX,help.memo.wiki
 DOMAIN-SUFFIX,seesaawiki.jp
 DOMAIN-SUFFIX,jable.tv
-DOMAIN-SUFFIX,missav.ws
+DOMAIN-KEYWORD,missav
+DOMAIN-KEYWORD,mgstage
 ################## EOF ##################
