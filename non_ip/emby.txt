@@ -1,0 +1,14 @@
+# sntp
+DOMAIN-SUFFIX,cn2gias.uk
+# yuebing
+DOMAIN,emby.my
+# houhai
+DOMAIN-SUFFIX,hohai.eu.org
+# ichinose
+DOMAIN-SUFFIX,191920.xyz
+# xiaozhuxuan
+DOMAIN-SUFFIX,xxxxx.com
+DOMAIN-SUFFIX,910427.xyz
+# playz
+DOMAIN-SUFFIX,mjji.de
+
