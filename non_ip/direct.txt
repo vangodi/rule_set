@@ -1,2 +1,5 @@
-# yuebing zhilian
+# 月饼🥮直连
 DOMAIN,a.emby.my
+
+# 非越直连
+DOMAIN,cdn.sfcj.org
