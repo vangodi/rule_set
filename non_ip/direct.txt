@@ -3,3 +3,6 @@ DOMAIN,a.emby.my
 
 # 非越直连
 DOMAIN,cdn.sfcj.org
+
+DOMAIN,whyno.dpdns.org
+DOMAIN,whyno.qzz.io
