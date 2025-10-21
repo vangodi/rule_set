@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,cn2gias.uk
 # yuebing
 DOMAIN,emby.my
+DOMAIN,speedtest-babybus.apple-cdn.net
 # houhai
 DOMAIN-SUFFIX,hohai.eu.org
 # ichinose
@@ -11,4 +12,8 @@ DOMAIN-SUFFIX,xxxxx.com
 DOMAIN-SUFFIX,910427.xyz
 # playz
 DOMAIN-SUFFIX,mjji.de
+# 飞跃
+DOMAIN,ch.feiyue.lol
+# HKA
+DOMAIN,hka-emby.aliz.work
 
