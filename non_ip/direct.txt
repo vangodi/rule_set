@@ -9,3 +9,5 @@ DOMAIN,jsq.vban.xyz
 
 DOMAIN,whyno.dpdns.org
 DOMAIN,whyno.qzz.io
+
+DOMAIN-SUFFIX,italent.cn
