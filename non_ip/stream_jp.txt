@@ -32,6 +32,8 @@ DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,abema.io
 
+DOMAIN-SUFFIX,unext.jp
+DOMAIN-SUFFIX,hnext.jp
 DOMAIN-SUFFIX,mgstage.com
 DOMAIN-SUFFIX,javlib.com
 DOMAIN-SUFFIX,javbus.com
