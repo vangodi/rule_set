@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,help.memo.wiki
 DOMAIN-SUFFIX,seesaawiki.jp
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,z93j.com
+DOMAIN-SUFFIX,thisisymem.site
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,mgstage
 ################## EOF ##################
