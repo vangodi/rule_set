@@ -8,7 +8,7 @@ DOMAIN,cdn.sfcj.org
 DOMAIN,jsq.vban.xyz
 
 #HKA
-hka-emby.aliz.work
+DOMAIN,hka-emby.aliz.work
 
 #nya
 DOMAIN-SUFFIX,emby.bangumi.ca
