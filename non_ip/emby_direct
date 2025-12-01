@@ -1,0 +1,14 @@
+# 月饼🥮直连
+DOMAIN,a.emby.my
+
+# 非越直连
+DOMAIN,cdn.sfcj.org
+
+# 见手青
+DOMAIN,jsq.vban.xyz
+
+#HKA
+hka-emby.aliz.work
+
+#nya
+DOMAIN-SUFFIX,emby.bangumi.ca
