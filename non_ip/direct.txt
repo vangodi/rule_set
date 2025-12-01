@@ -1,13 +1,1 @@
-# 月饼🥮直连
-DOMAIN,a.emby.my
-
-# 非越直连
-DOMAIN,cdn.sfcj.org
-
-# 见手青
-DOMAIN,jsq.vban.xyz
-
-DOMAIN,whyno.dpdns.org
-DOMAIN,whyno.qzz.io
-
 DOMAIN-SUFFIX,italent.cn
