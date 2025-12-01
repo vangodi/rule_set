@@ -1,19 +1,34 @@
 # sntp
 DOMAIN-SUFFIX,cn2gias.uk
-# yuebing
+# 月饼
 DOMAIN,emby.my
 DOMAIN,speedtest-babybus.apple-cdn.net
 # houhai
 DOMAIN-SUFFIX,hohai.eu.org
 # ichinose
 DOMAIN-SUFFIX,191920.xyz
-# xiaozhuxuan
+# 小竹轩
 DOMAIN-SUFFIX,xxxxx.com
 DOMAIN-SUFFIX,910427.xyz
+# 肥牛
+DOMAIN-SUFFIX,feiniu.lol
+# 非越
+DOMAIN-SUFFIX,sfcj.org
 # playz
 DOMAIN-SUFFIX,mjji.de
 # 飞跃
-DOMAIN,ch.feiyue.lol
+DOMAIN-SUFFIX,feiyue.lol
 # HKA
 DOMAIN,hka-emby.aliz.work
-
+# 临小镜
+DOMAIN-SUFFIX,liminalnet.com
+# okemby
+DOMAIN-SUFFIX,okemby.org
+# nayovo
+DOMAIN-SUFFIX,007.us.kg
+# 神秘礼物
+DOMAIN-SUFFIX,jcnf.xyz
+# emos
+DOMAIN-SUFFIX,emos.lol
+# emos pn
+DOMAIN-SUFFIX,empn.mom
