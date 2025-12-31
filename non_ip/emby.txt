@@ -32,3 +32,5 @@ DOMAIN-SUFFIX,jcnf.xyz
 DOMAIN-SUFFIX,emos.lol
 # emos pn
 DOMAIN-SUFFIX,empn.mom
+# 叶子
+DOMAIN-SUFFIX,yezi.my
