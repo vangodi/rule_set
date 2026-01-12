@@ -33,8 +33,10 @@ DOMAIN-SUFFIX,jcnf.xyz
 DOMAIN-SUFFIX,emos.lol
 # emos pn
 DOMAIN-SUFFIX,empn.mom
+# Embydata
+DOMAIN-SUFFIX,10520.xyz
 # 叶子
 DOMAIN-SUFFIX,yezi.my
-#cookie
+# cookie
 DOMAIN-SUFFIX,info.us.kg
 DOMAIN,emby.nas.edu.kg
