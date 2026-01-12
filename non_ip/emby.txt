@@ -3,23 +3,24 @@ DOMAIN-SUFFIX,cn2gias.uk
 # 月饼
 DOMAIN,emby.my
 DOMAIN,speedtest-babybus.apple-cdn.net
+# 月饼🥮直连
+DOMAIN,a.emby.my
 # houhai
 DOMAIN-SUFFIX,hohai.eu.org
 # ichinose
 DOMAIN-SUFFIX,191920.xyz
-# 小竹轩
-DOMAIN-SUFFIX,xxxxx.com
-DOMAIN-SUFFIX,910427.xyz
 # 肥牛
 DOMAIN-SUFFIX,feiniu.lol
 # 非越
 DOMAIN-SUFFIX,sfcj.org
-# playz
-DOMAIN-SUFFIX,mjji.de
+# 见手青
+DOMAIN,jsq.vban.xyz
 # 飞跃
 DOMAIN-SUFFIX,feiyue.lol
 # HKA
 DOMAIN,hka-emby.aliz.work
+#nya
+DOMAIN-SUFFIX,emby.bangumi.ca
 # 临小镜
 DOMAIN-SUFFIX,liminalnet.com
 # okemby
@@ -34,3 +35,5 @@ DOMAIN-SUFFIX,emos.lol
 DOMAIN-SUFFIX,empn.mom
 # 叶子
 DOMAIN-SUFFIX,yezi.my
+#cookie
+DOMAIN-SUFFIX,info.us.kg
