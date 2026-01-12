@@ -12,3 +12,9 @@ DOMAIN,hka-emby.aliz.work
 
 #nya
 DOMAIN-SUFFIX,emby.bangumi.ca
+
+# Embydata
+DOMAIN-SUFFIX,10520.xyz
+
+# 叶子
+DOMAIN-SUFFIX,yezi.my
