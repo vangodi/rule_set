@@ -37,3 +37,4 @@ DOMAIN-SUFFIX,empn.mom
 DOMAIN-SUFFIX,yezi.my
 #cookie
 DOMAIN-SUFFIX,info.us.kg
+DOMAIN,emby.nas.edu.kg
