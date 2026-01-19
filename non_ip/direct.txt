@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX,italent.cn
+DOMAIN-SUFFIX,10jqka.com.cn
 
