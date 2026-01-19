@@ -1,5 +1,4 @@
 DOMAIN-SUFFIX,italent.cn
-DOMAIN-SUFFIX,srdcloud.cn
 #tonghuashun
 DOMAIN-SUFFIX,10jqka.com.cn
 
