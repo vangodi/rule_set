@@ -5,7 +5,7 @@ DOMAIN,emby.my
 DOMAIN,speedtest-babybus.apple-cdn.net
 # 月饼🥮直连
 DOMAIN,a.emby.my
-# houhai
+# hohai
 DOMAIN-SUFFIX,hohai.eu.org
 # ichinose
 DOMAIN-SUFFIX,191920.xyz
@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,empn.mom
 DOMAIN-SUFFIX,10520.xyz
 # 叶子
 DOMAIN-SUFFIX,yezi.my
+DOMAIN-SUFFIX,lyezi.cc
 # cookie
 DOMAIN-SUFFIX,info.us.kg
 DOMAIN,emby.nas.edu.kg
