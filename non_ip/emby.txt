@@ -41,3 +41,5 @@ DOMAIN-SUFFIX,lyezi.cc
 # cookie
 DOMAIN-SUFFIX,info.us.kg
 DOMAIN,emby.nas.edu.kg
+# 起点站
+DOMAIN-SUFFIX,free.28.al
