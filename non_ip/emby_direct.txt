@@ -2,7 +2,7 @@
 DOMAIN,a.emby.my
 
 # 非越直连
-DOMAIN,cdn.sfcj.org
+DOMAIN-SUFFIX,sfcj.org
 
 # 见手青
 DOMAIN,jsq.vban.xyz
