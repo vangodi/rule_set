@@ -24,3 +24,6 @@ DOMAIN-SUFFIX,yusen6.ccwu.cc
 DOMAIN-SUFFIX,yusen.us.ci
 DOMAIN-SUFFIX,yusen.cyou
 DOMAIN-SUFFIX,yusen.cc.cd
+
+#msky
+DOMAIN-SUFFIX,betop.uk
