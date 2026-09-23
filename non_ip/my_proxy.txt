@@ -1,2 +1,4 @@
 # 恩山
 DOMAIN-SUFFIX,right.com.cn
+
+DOMAIN-SUFFIX,githubusercontent.com
