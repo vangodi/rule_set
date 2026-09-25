@@ -27,3 +27,6 @@ DOMAIN-SUFFIX,yusen.cc.cd
 
 #msky
 DOMAIN-SUFFIX,betop.uk
+
+#佬友记 金主线路
+DOMAIN-SUFFIX,ysz.dpdns.org
