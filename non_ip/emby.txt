@@ -44,4 +44,17 @@ DOMAIN,emby.nas.edu.kg
 # 起点站
 DOMAIN-SUFFIX,free.28.al
 
-DOMAIN,speedtest-peppapig.apple-cdn.net
+#msky
+DOMAIN-SUFFIX,betop.uk
+#佬友记
+DOMAIN-SUFFIX,605305.xyz
+#随时跑路
+DOMAIN-SUFFIX,kingemby.com
+#影迹
+DOMAIN-SUFFIX,aixj.de
+#fworks
+DOMAIN-SUFFIX,fworks-emby.webn.cc
+DOMAIN-SUFFIX,fworks-emby.sylu.cc
+#茶百道
+DOMAIN-SUFFIX,teawaya.com
+DOMAIN-SUFFIX,7s.l.cd
