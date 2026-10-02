@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,hnext.jp
 DOMAIN-SUFFIX,mgstage.com
 DOMAIN-SUFFIX,javlib.com
 DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,avdanyuwiki.com
 DOMAIN-SUFFIX,help.memo.wiki
 DOMAIN-SUFFIX,seesaawiki.jp
