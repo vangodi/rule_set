@@ -60,3 +60,5 @@ DOMAIN-SUFFIX,teawaya.com
 DOMAIN-SUFFIX,7s.l.cd
 #echoflix
 DOMAIN-SUFFIX,echoflix.de
+#猫窝
+DOMAIN-SUFFIX,stieff.uk
