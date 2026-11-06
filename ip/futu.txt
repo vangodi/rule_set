@@ -1,0 +1,16 @@
+# 富途牛牛 行情/推送服务器 IP 段
+# 来源: 2026-11-06 实机调试日志中富途裸 IP 连接目标
+# 归属: 腾讯云国际 AS132203，实际分布 香港 / 新加坡 / 东京 / 美国
+# 说明: 行情服务器由 api.futunn.com 动态下发并轮换，故按网段维护
+
+# 香港
+IP-CIDR,43.132.0.0/16,no-resolve
+IP-CIDR,119.28.0.0/16,no-resolve
+IP-CIDR,124.156.0.0/16,no-resolve
+
+# 新加坡 / 香港
+IP-CIDR,43.153.0.0/16,no-resolve
+
+# 美国
+IP-CIDR,49.51.0.0/16,no-resolve
+IP-CIDR,170.106.0.0/16,no-resolve
